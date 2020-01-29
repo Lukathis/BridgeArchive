@@ -6,7 +6,7 @@ We hope we could be a comprehensive platform for statistic gathering, knowledge 
 # Technology 
 
 - Front end -- angular 
-- Back end -- flask
+- Back end -- Spring Boot 
 - DB -- MySql
 
 # Contact
